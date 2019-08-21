@@ -1,2 +1,2 @@
-# wesome_gin
+# awesome_gin
 Base on gin and gorm build the MVC project
